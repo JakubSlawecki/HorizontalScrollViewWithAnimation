@@ -1,2 +1,2 @@
 # HorizontalScrollViewWithAnimation
-Horizontal Scroll View with animation using SwiftUI and GeometryReader.
+Horizontal and Vertical Scroll View with animation using SwiftUI and GeometryReader.
