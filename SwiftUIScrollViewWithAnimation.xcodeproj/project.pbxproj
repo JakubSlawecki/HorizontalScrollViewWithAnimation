@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C6090B1E23FBEF2900A814D8 /* VerticalScroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6090B1D23FBEF2900A814D8 /* VerticalScroll.swift */; };
 		C6AC177523FBC11E00DE2A88 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6AC177423FBC11E00DE2A88 /* AppDelegate.swift */; };
 		C6AC177723FBC11F00DE2A88 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6AC177623FBC11F00DE2A88 /* SceneDelegate.swift */; };
 		C6AC177923FBC11F00DE2A88 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6AC177823FBC11F00DE2A88 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C6090B1D23FBEF2900A814D8 /* VerticalScroll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticalScroll.swift; sourceTree = "<group>"; };
 		C6AC177123FBC11E00DE2A88 /* SwiftUIScrollViewWithAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIScrollViewWithAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6AC177423FBC11E00DE2A88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C6AC177623FBC11F00DE2A88 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				C6AC177423FBC11E00DE2A88 /* AppDelegate.swift */,
 				C6AC177623FBC11F00DE2A88 /* SceneDelegate.swift */,
 				C6AC177823FBC11F00DE2A88 /* ContentView.swift */,
+				C6090B1D23FBEF2900A814D8 /* VerticalScroll.swift */,
 				C6AC177A23FBC12000DE2A88 /* Assets.xcassets */,
 				C6AC177F23FBC12000DE2A88 /* LaunchScreen.storyboard */,
 				C6AC178223FBC12000DE2A88 /* Info.plist */,
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C6090B1E23FBEF2900A814D8 /* VerticalScroll.swift in Sources */,
 				C6AC177523FBC11E00DE2A88 /* AppDelegate.swift in Sources */,
 				C6AC177723FBC11F00DE2A88 /* SceneDelegate.swift in Sources */,
 				C6AC177923FBC11F00DE2A88 /* ContentView.swift in Sources */,
